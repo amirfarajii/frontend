@@ -4,4 +4,4 @@ In blockchain games we have two issues, First, games are very simple and boring 
 
 ## Structure in Game
 
-![](<../.gitbook/assets/Network-Diagram-Manual (2) (1).jpg>)
+![](<../.gitbook/assets/Network-Diagram-Manual (1) (1).png>)

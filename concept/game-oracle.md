@@ -20,4 +20,8 @@ Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, an
 
 Chainlink connects smart contracts with external data using its decentralized oracle network. Chainlink API requests are handled 1:1 by an oracle.
 
+## What is VRF in Chainlink?&#x20;
+
+
+
 \
