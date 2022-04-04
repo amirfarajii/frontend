@@ -18,10 +18,16 @@ Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, an
 
 
 
-Chainlink connects smart contracts with external data using its decentralized oracle network. Chainlink API requests are handled 1:1 by an oracle.
-
 ## What is VRF in Chainlink?&#x20;
 
 
+
+For each request, Chainlink VRF generates one or more random values and cryptographic proof of how those values were determined. The proof is published and verified on-chain before any consuming applications can use it. This process ensures that results cannot be tampered with or manipulated by any single entity including oracle operators, miners, users, or smart contract developers.
+
+Use Chainlink VRF to build reliable smart contracts for any applications that rely on unpredictable outcomes:
+
+* Building blockchain games and NFTs.
+
+We use VRF to prove who can access the function (mint token) with VRF, and the signature out of the chain allows the player to receive their prize.
 
 \
