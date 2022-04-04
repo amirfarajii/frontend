@@ -2,6 +2,7 @@
 
 * [What is Lando  Game?](README.md)
 * [Lando Token](lando-token.md)
+* [Tokenomics](tokenomics.md)
 
 ## Game details
 
