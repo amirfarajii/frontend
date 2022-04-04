@@ -22,13 +22,10 @@
 * [Game Contract](concept/game-contract.md)
 * [Game Oracle](concept/game-oracle.md)
 
-## FQI
+## FAQ
 
-* [How to buy token](fqi/how-to-buy-token.md)
-* [How to partner in IDO?](fqi/how-to-partner-in-ido.md)
-* [How to partner in nft sale?](fqi/how-to-partner-in-nft-sale.md)
-* [For Support](fqi/for-support/README.md)
-  * [Intercom Integration](fqi/for-support/intercom-integration.md)
+* [How to partner in IDO?](faq/how-to-partner-in-ido.md)
+* [How to partner in nft sale?](faq/how-to-partner-in-nft-sale.md)
 
 ## Social
 
