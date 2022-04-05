@@ -1,18 +1,18 @@
 # What is Lando  Game?
 
-## Lando Gun
+## Lando Game
 
-> Lando Game is a play-to-earn metaverse game platform on Polygon network. **Lando game blockchain** is a that includes elements that use cryptography-based blockchain technologies. Blockchain elements in this game are most often based on the use of cryptocurrency or non-fungible tokens (NFTs) which players can buy, earn, or trade with other players.
+> Lando Game is a play-to-earn metaverse game platform on Binance Smart Chain . **Lando game** is a that includes elements that use cryptography based blockchain technologies. Blockchain elements in this game are most often based on the use of cryptocurrency or non-fungible tokens (NFTs) which players can buy, earn, or trade with other players.
 
 ### Type of Lando game
 
-#### Lando game is the first First-person shooter on  blockchain with oracle.
+#### Lando game is the  First-person shooter on  blockchain with oracle.
 
 First-person shooter (FPS) is a sub-genre of shooter video games centered on gun and other weapon-based combat from a first-person perspective, with the player experiencing the action through the eyes of the protagonist and controlling the player character.
 
 ## Game Teaser
 
-Check out a video overview of Vega Gun Game:
+Check out a video overview of Lando Game:
 
 {% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
 
@@ -32,7 +32,7 @@ Check out a video overview of Vega Gun Game:
 [game-play.md](game-details/game-play.md)
 {% endcontent-ref %}
 
-Learn the fundamentals of Meta Gun to get a deeper understanding of our main features:
+Learn the fundamentals of Lando Game to get a deeper understanding of our main features:
 
 {% content-ref url="concept/owerview.md" %}
 [owerview.md](concept/owerview.md)

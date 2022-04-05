@@ -1,6 +1,6 @@
 # NFT in Game
 
-### Type of NFTs in Vega Gun
+### Type of NFTs in Lando Game
 
 * Character
 * Gun

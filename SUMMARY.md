@@ -10,7 +10,7 @@
 * [How to earn money?](game-details/how-to-earn-money.md)
 * [Game Play](game-details/game-play.md)
 * [NFT in Game](game-details/nft-in-game/README.md)
-  * [Character](game-details/nft-in-game/character.md)
+  * [Characters](game-details/nft-in-game/characters.md)
   * [Gun NFT](game-details/nft-in-game/gun-nft.md)
   * [Handle](game-details/nft-in-game/handle.md)
   * [Skill](game-details/nft-in-game/skill.md)

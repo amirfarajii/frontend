@@ -53,6 +53,3 @@ Each time you play, and you are first to third, the game randomly gives between 
 
 ####
 
-
-
-{% embed url="http://google.com" %}

@@ -8,7 +8,7 @@
 
 |             |                      |
 | ----------- | -------------------- |
-| Network     | Polygon              |
+| Network     | Binance Smart Chain  |
 | Symbol      | LND                  |
 | Type Game   | FPS                  |
 | Device Game | Desktop, Web, Mobile |
