@@ -84,7 +84,7 @@ const ConnectTo = () => {
         <Form {...account} />
       </div>
     );
-  } else if (account.connected && chainId == 3) {
+  } else if (account.connected && chainId === 56) {
     return (
       <div className="contain-connect">
         <div className="address">
@@ -95,7 +95,7 @@ const ConnectTo = () => {
         </div>
         <div className="chain">
           <i class="fas fa-check-square"></i>
-          <p1 className="chain">BSC Mainnet</p1>
+          <p1 className="chain">BSC Network</p1>
         </div>
 
         <Form {...account} />
@@ -107,7 +107,7 @@ const ConnectTo = () => {
         <i class="fas fa-exclamation-triangle">
           <h1>Worng Network</h1>
         </i>
-        <p1>Please change your Network to Binance Smart Chain</p1>
+        <p1>Please change your Network to Binance smart chain</p1>
       </div>
     );
   }
