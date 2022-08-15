@@ -1,25 +1,14 @@
 import React, { useState } from "react";
-import { ethers } from "ethers";
-import { CONTRACT_ADDRESS, CONTRACT_ABI } from "./ContractAbi";
-import { parseEther, parseUnits } from "ethers/lib/utils";
+
 import "./Form.css";
 const From = (props) => {
   const [amount, setAmount] = useState(null);
-  const signer = props.signer;
   const handleSubmit = (e) => {
     e.preventDefault();
   };
-  const erc = new ethers.Contract(CONTRACT_ADDRESS, CONTRACT_ABI, signer);
-  console.log(erc)
-  const AddressTo = "0xEeccf7e58f192f5d572AADfd6f20f8128F08ACaF";
-  const amountToken = parseUnits("100");
 
-  const RequestTx = async () => {
-    console.log("Clicked!")
-    const tx = await erc.mint(AddressTo, amountToken)
-    console.log(tx);
-    await tx.wait();
-  }
+
+
   return (
     <div className="form-box">
       <h3 className="form-header">KVL ICO:</h3>
@@ -57,7 +46,7 @@ const From = (props) => {
         </div>
       </form>
       <div >
-            <button className="btn-submit" onclick={RequestTx}>Mint Token</button>
+            <button className="btn-submit" >Mint Token</button>
           </div>
     </div>
   );
