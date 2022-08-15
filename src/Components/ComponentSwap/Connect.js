@@ -84,7 +84,7 @@ const ConnectTo = () => {
         <Form {...account} />
       </div>
     );
-  } else if (account.connected && chainId == 3) {
+  } else if (account.connected && chainId == 56) {
     return (
       <div className="contain-connect">
         <div className="address">
